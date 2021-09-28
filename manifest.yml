@@ -1,5 +1,5 @@
 ---
 applications:
- - name: movies-reviews-database
+ - name: Movie Database v2.0
    random-route: false
    memory: 128M
